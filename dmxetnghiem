@@ -1,0 +1,147 @@
+[
+    {
+        "maxn": "ACID",
+        "tenxn": "aACID",
+        "sort": 1
+    },
+    {
+        "maxn": "CHE",
+        "tenxn": "CHE",
+        "sort": 2
+    },
+    {
+        "maxn": "CHO",
+        "tenxn": "CHO",
+        "sort": 3
+    },
+    {
+        "maxn": "COVID",
+        "tenxn": "COVID",
+        "sort": 4
+    },
+    {
+        "maxn": "COVID_FREE",
+        "tenxn": "COVID ( FREE )",
+        "sort": 5
+    },
+    {
+        "maxn": "CRE",
+        "tenxn": "CRE",
+        "sort": 6
+    },
+    {
+        "maxn": "CTM",
+        "tenxn": "CTM",
+        "sort": 7
+    },
+    {
+        "maxn": "GGT",
+        "tenxn": "GGT",
+        "sort": 8
+    },
+    {
+        "maxn": "GLUCO",
+        "tenxn": "GLUCO",
+        "sort": 9
+    },
+    {
+        "maxn": "GOT",
+        "tenxn": "GOT",
+        "sort": 10
+    },
+    {
+        "maxn": "GPT",
+        "tenxn": "GPT",
+        "sort": 11
+    },
+    {
+        "maxn": "HAV",
+        "tenxn": "HAV",
+        "sort": 12
+    },
+    {
+        "maxn": "HBsAb",
+        "tenxn": "HBsAb",
+        "sort": 13
+    },
+    {
+        "maxn": "HBsAg",
+        "tenxn": "HBsAg",
+        "sort": 14
+    },
+    {
+        "maxn": "HCV",
+        "tenxn": "HCV",
+        "sort": 15
+    },
+    {
+        "maxn": "HDL",
+        "tenxn": "HDL",
+        "sort": 16
+    },
+    {
+        "maxn": "HEROIN",
+        "tenxn": "HEROIN",
+        "sort": 17
+    },
+    {
+        "maxn": "HEV",
+        "tenxn": "HEV",
+        "sort": 18
+    },
+    {
+        "maxn": "HIV",
+        "tenxn": "HIV",
+        "sort": 19
+    },
+    {
+        "maxn": "HP",
+        "tenxn": "HP",
+        "sort": 20
+    },
+    {
+        "maxn": "KST",
+        "tenxn": "KST",
+        "sort": 21
+    },
+    {
+        "maxn": "LDL",
+        "tenxn": "LDL",
+        "sort": 22
+    },
+    {
+        "maxn": "MATUY",
+        "tenxn": "MA TÚY",
+        "sort": 23
+    },
+    {
+        "maxn": "NM",
+        "tenxn": "NM",
+        "sort": 24
+    },
+    {
+        "maxn": "THC",
+        "tenxn": "THC",
+        "sort": 25
+    },
+    {
+        "maxn": "TPTNT",
+        "tenxn": "TPTNT",
+        "sort": 26
+    },
+    {
+        "maxn": "TRI",
+        "tenxn": "TRI",
+        "sort": 27
+    },
+    {
+        "maxn": "URE",
+        "tenxn": "URE",
+        "sort": 28
+    },
+    {
+        "maxn": "VISINH",
+        "tenxn": "VI SINH",
+        "sort": 29
+    }
+]
